@@ -1,0 +1,6 @@
+@CorrecaoProva1_HostAddress = http://localhost:5082
+
+GET {{CorrecaoProva1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
